@@ -169,6 +169,8 @@ p{
 .about li{
     position: relative;
     text-align: left;
+    color: #333;
+    font-size: 18px;
 }
 
 .about ul {
